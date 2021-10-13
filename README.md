@@ -1,16 +1,49 @@
-### Hi there 👋
+Principal Sitecore Architect and Developer Advocate/Evangelist, [SearchStax](https://searchstax.com)
 
-<!--
-**Radical-Dave/Radical-Dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
+                               
+<center>
+<table width="100%" border="1"><tr><td valign="top" width="33%">
+  
+### ⚡ Popular Projects
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[TulsaTechFest](https://tulsatechfest.com)<br/>
+[TechFests](https://techfests.com)<br/>
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
+  
+  </td><td valign="top" width="33%">
+  
+### 🔭 Current Projects
+
+<hr>
+
+[AppBlocks](https://appblocks.net)<br/>
+[Grouplings](https://grouplings.com)<br/>
+[Do](https://github.com/radical-dave/do)<br/>
+[TechFests](https://techfests.com)<br/>
+
+  </td><td valign="top" width="33%">
+  
+### 👯 Connect!
+  
+<hr>
+
+📫 How to reach me:<br/>
+[RadicalDave.com](https://radicaldave.com)<br/>
+[LinkedIn](https://linkedin.com/in/davidwalker)<br/>
+[Twitter](https://twitter.com/davidwalker)<br/>
+
+  </td></tr><tr><td width="100%" colspan="3">
+  
+  💬 Fun fact: I went to Junior High School at [W.T. Sampson School](https://www.dodea.edu/WTsampsonEHS/about.cfm) in GITMO (Guantanamo Bay Naval Base, Cuba) where I studied:
+  
+  - [Isshin-Ryu Karate](https://en.wikipedia.org/wiki/Isshin-ry%C5%AB) taught by a [NAVY SEABEE](https://www.necc.usff.navy.mil/seabees/)
+  - Bought my first Guns N' Roses album [Live ?!*@Like a Suicide](https://en.wikipedia.org/wiki/Live_%3F!*@_Like_a_Suicide)
+  - Got my first computer: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). Then, in 1987, I moved to [Tulsa, Ok](https://en.wikipedia.org/wiki/Tulsa,_Oklahoma) and started running [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) systems!
+  
+  </td></tr>
+</table>
+</center>
