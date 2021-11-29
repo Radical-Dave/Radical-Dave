@@ -20,6 +20,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 
 <hr>
 
+[SharedSitecore](https://sharedsitecore.com)<br/>
 [AppBlocks](https://appblocks.net)<br/>
 [Grouplings](https://grouplings.com)<br/>
 [Do](https://github.com/radical-dave/do)<br/>
