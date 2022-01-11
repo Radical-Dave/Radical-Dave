@@ -47,6 +47,5 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   
   </td></tr>
 </table>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=radical-dave&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=radical-dave&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
