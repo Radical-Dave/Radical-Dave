@@ -48,7 +48,8 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   </td></tr>
 </table>
 </center>
-<br/>
+
+![GitHub metrics](https://metrics.lecoq.io/radical-dave)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=radical-dave&show_icons=true&count_private=true)  
 
