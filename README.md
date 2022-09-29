@@ -1,4 +1,4 @@
-Principal Sitecore Architect and Developer Advocate/Evangelist, [SearchStax](https://searchstax.com)
+Senior DevOps Consultant, [RevUnit](https://revunit.com)
 
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                
@@ -32,10 +32,12 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   
 <hr>
 
-📫 How to reach me:<br/>
+📫 How to reach me:
 [RadicalDave.com](https://radicaldave.com)<br/>
-[LinkedIn](https://linkedin.com/in/davidwalker)<br/>
+[LinkedIn](https://linkedin.com/in/davidwalker),
 [Twitter](https://twitter.com/davidwalker)<br/>
+[Github/Radical-Dave](https://github.com/radical-dave)<br/>
+[Github/SharedSitecore](https://github.com/sharedsitecore)<br/>
 
   </td></tr><tr><td width="100%" colspan="3">
   
