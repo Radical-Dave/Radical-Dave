@@ -36,7 +36,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
 [RadicalDave.com](https://radicaldave.com)<br/>
 [LinkedIn](https://linkedin.com/in/davidwalker),
 [Twitter](https://twitter.com/davidwalker)<br/>
-[Github/Radical-Dave](https://github.com/radical-dave)<br/>
+[Github/SitecoreDave](https://github.com/sitecoredave)<br/>
 [Github/SharedSitecore](https://github.com/sharedsitecore)<br/>
 
   </td></tr><tr><td width="100%" colspan="3">
