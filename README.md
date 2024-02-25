@@ -32,7 +32,7 @@ Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, 
   
 <hr>
 
-📫 How to reach me:
+📫 How to reach me:<br/>
 [RadicalDave.com](https://radicaldave.com)<br/>
 [LinkedIn](https://linkedin.com/in/davidwalker),
 [Twitter](https://twitter.com/davidwalker)<br/>
