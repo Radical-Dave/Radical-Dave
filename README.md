@@ -1,4 +1,4 @@
-Senior DevSecOps Consultant, [RevUnit](https://revunit.com)
+3x AWS Community Builder, 2x Sitecore Technology MVP, 3x Microsoft MVP
 
 Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
                                
