@@ -1,6 +1,6 @@
-3x AWS Community Builder, 2x Sitecore Technology MVP, 3x Microsoft MVP
+4x AWS Community Builder, 2x Sitecore Technology MVP, 3x Microsoft MVP
 
-Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;15 Years Sitecore Certified & Remote
+Proven Agile Advocate, Architect, Contributor, Developer, Director, Evangelist, Leader & Manager of Practices, Processes, Products, Programs, Software, Solutions, Teams & Technologies;18 Years Sitecore Certified & Remote
                                
 <center>
 <table width="100%" border="1"><tr><td valign="top" width="33%">
